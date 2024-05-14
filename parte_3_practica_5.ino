@@ -5,7 +5,7 @@
    Quinto electronica
    Codigo Tecnico: EB5AV 
    Curso: Taller de electronica digital y reparacion de computadoras I
-   Proyecto: Práctica 5 - Parte 1
+   Proyecto: Práctica 5 - Parte 3
    Dev: Profe. Alejandro Lopez Navas
    Fecha: 10 de mayo
    
